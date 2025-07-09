@@ -29,7 +29,7 @@
 | Backend   | Spring Boot, Kafka, JPA, JWT, REST API                |
 | Frontend  | React, Vite, Tailwind, MUI                            |
 | Infra     | AWS EC2, RDS, IAM, Kubernetes, Docker                 |
-| Tools     | GitHub, Firebase, Tableau, Notion, MSA EZ             |
+| Tools     | GitHub, Firebase, Notion, MSA EZ             |
 
 ---
 
