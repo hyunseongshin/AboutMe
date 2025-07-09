@@ -4,9 +4,8 @@
 현실 문제를 AI와 데이터로 풀어내는 개발자입니다.
 
 ![visitors](https://komarev.com/ghpvc/?username=your-github-id&color=blue)
-[![Gmail Badge](https://img.shields.io/badge/-shh123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shh123@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-id)
-[![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?logo=notion)](https://your-notion-link)
+[![Gmail Badge](https://img.shields.io/badge/-shh123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dnclgk9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?logo=notion)](https://www.notion.so/Resume-1f8103967cce8099a16ac398fdd148b4)
 
 </div>
 
