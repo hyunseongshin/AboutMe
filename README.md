@@ -37,16 +37,17 @@
 
 ### 📦 대표 프로젝트
 
-| 이름 | 설명 | 기술스택 | 링크 |
-|------|------|----------|------|
-| 🛂 관세청 공공데이터 해커톤 | YOLOv8 기반 X-ray 탐지 모델, HS 코드 자동 분류 | `YOLOv8`, `OpenCV`, `Pandas` | [🔗 GitHub](https://github.com/your-project-link) |
-| 📘 도서관리 시스템 | Spring Boot + JWT 인증 기반 CRUD API + React 프론트 | `Spring Boot`, `JWT`, `React`, `MUI` | [🔗 GitHub](https://github.com/your-project-link) |
-| ☁️ AWS Cloud Architecture | EC2, NAT, RDS, ALB 등을 포함한 고가용성 아키텍처 설계 | `AWS`, `EC2`, `VPC`, `IAM` | - |
-| 📚 KT 걷다가서재 | Kafka 기반 출간/구독 시스템, LLM 기반 요약 + 표지 생성 | `Kafka`, `Spring Cloud Stream`, `GPT`, `Kubernetes` | [🔗 GitHub](https://github.com/your-project-link) |
-| 🤖 AI 면접관 Agent | LangChain 기반 BLEU 평가 시스템, 자동 피드백 제공 | `LangChain`, `Chroma`, `BLEU` | [🔗 GitHub](https://github.com/your-project-link) |
-| 🍷 와인 등급 분류 | LightGBM 등으로 품질 예측, 시각화 및 정확도 비교 | `LightGBM`, `Sklearn`, `EDA`, `Matplotlib` | - |
-| 🏠 고독사 방지 IoT 시스템 | 센서 기반 활동 감지 + Firebase 연동 앱 알림 시스템 | `Firebase`, `Android`, `Python` | - |
-| ⚙️ 서부발전 고장 징후 탐지 | 센서 시계열 시각화 및 이상 탐지 GUI 개발 | `Tkinter`, `Z-score`, `시계열 분석` | [📷 GUI 보기](https://github.com/your-gui-image) |
+| 이름 | 설명 | 기술스택 |
+|------|------|----------|
+| 🛂 관세청 공공데이터 해커톤 | YOLOv8 기반 X-ray 탐지 모델, HS 코드 자동 분류 | `YOLOv8`, `OpenCV`, `Pandas` |
+| 📘 도서관리 시스템 | Spring Boot + JWT 인증 기반 CRUD API + React 프론트 | `Spring Boot`, `JWT`, `React`, `MUI` |
+| ☁️ AWS Cloud Architecture | EC2, NAT, RDS, ALB 등을 포함한 고가용성 아키텍처 설계 | `AWS`, `EC2`, `VPC`, `IAM` |
+| 📚 KT 걷다가서재 | Kafka 기반 출간/구독 시스템, LLM 기반 요약 + 표지 생성 | `Kafka`, `Spring Cloud Stream`, `GPT`, `Kubernetes` |
+| 🤖 AI 면접관 Agent | LangChain 기반 BLEU 평가 시스템, 자동 피드백 제공 | `LangChain`, `Chroma`, `BLEU` |
+| 🍷 와인 등급 분류 | LightGBM 등으로 품질 예측, 시각화 및 정확도 비교 | `LightGBM`, `Sklearn`, `EDA`, `Matplotlib` |
+| 🏠 고독사 방지 IoT 시스템 | 센서 기반 활동 감지 + Firebase 연동 앱 알림 시스템 | `Firebase`, `Android`, `Python` |
+| ⚙️ 서부발전 고장 징후 탐지 | 센서 시계열 시각화 및 이상 탐지 GUI 개발 | `Tkinter`, `Z-score`, `시계열 분석` |
+
 
 ---
 
