@@ -70,9 +70,9 @@
 
 ## 📫 Contact
 
-- Email: shh123@gmail.com  
-- Notion 포트폴리오: [🔗 Click here](https://your-notion-link)
-- 기술 블로그 (선택): [Velog / Tistory 등]
+- Email: dnclgk9@gmail.com  
+- Notion 포트폴리오: [🔗 Click here](https://www.notion.so/Resume-1f8103967cce8099a16ac398fdd148b4)
+- 기술 블로그 : [https://insight0263.tistory.com/]
 
 ---
 
